@@ -2,14 +2,16 @@
 Scripts to extract sea-ice edge outputs from the Pangeo CMIP6 repository for comparison with historical whaling data.
 
 **Historical catch records of humpback whales and the assessment of early 20th century sea ice edge in climate models**
+
 _Marcello Vichi1,2, Elisa Seyboth3, Thando Mazomba1, Els Vermeulen3, Ken Findlay4, Jan-Olaf Meynecke5,6, Jasper De Bie6, Eduardo Secchi7, Luciano Dalla Rosa7, and Alakendra Roychoudhury8_
-1 Department of Oceanography, University of Cape Town, Rondebosch, South Africa
-2 Marine and Antarctic Research centre for Innovation and Sustainability (MARIS), University of Cape Town, Rondebosch, South Africa
-3 Mammal Research Institute Whale Unit, Faculty of Natural and Agricultural Sciences, University of Pretoria, South Africa
-4 Centre for Sustainable Oceans, Cape Peninsula University of Technology, Cape Town, South Africa 
-5 Whales and Climate Research Program, Griffith University, Gold Coast, Australia
-6 Centre for Marine and Coastal Research, Griffith University, Gold Coast, Australia
-7 Institute of Oceanography, Federal University of Rio Grande, Rio Grande, Brazil
+
+1 Department of Oceanography, University of Cape Town, Rondebosch, South Africa; 
+2 Marine and Antarctic Research centre for Innovation and Sustainability (MARIS), University of Cape Town, Rondebosch, South Africa; 
+3 Mammal Research Institute Whale Unit, Faculty of Natural and Agricultural Sciences, University of Pretoria, South Africa;
+4 Centre for Sustainable Oceans, Cape Peninsula University of Technology, Cape Town, South Africa; 
+5 Whales and Climate Research Program, Griffith University, Gold Coast, Australia; 
+6 Centre for Marine and Coastal Research, Griffith University, Gold Coast, Australia; 
+7 Institute of Oceanography, Federal University of Rio Grande, Rio Grande, Brazil; 
 8 Department of Earth Sciences, Stellenbosch University, Stellenbosch, South Africa
 
 Submitted for publication in Env. REs. Clim
